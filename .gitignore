@@ -1,0 +1,7 @@
+proj_env/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+SUMMARY_AND_CONCEPTS.md
