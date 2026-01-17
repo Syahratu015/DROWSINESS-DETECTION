@@ -16,3 +16,5 @@ __pycache__/
 
 # OS
 .DS_Store
+
+SUMMARY_AND_CONCEPTS.md
