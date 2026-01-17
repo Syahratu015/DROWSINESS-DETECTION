@@ -1,7 +1,18 @@
+# Python system
+Python-3.10.13/
+
+# Virtual environment
+mp_env/
 proj_env/
+venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
-.DS_Store
-.vscode/
 
-SUMMARY_AND_CONCEPTS.md
+# Model
+*.pkl
+
+# OS
+.DS_Store
